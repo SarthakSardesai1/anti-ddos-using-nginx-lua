@@ -1,4 +1,4 @@
-# Anti-DDoS Challenge Script
+# Anti-DDoS Script
 
 ## Overview
 
